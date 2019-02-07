@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UnitTestFiguras.CirculoTest">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>CirculoTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestFiguras.CuadradoTest">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>CuadradoTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestFiguras.PlanchaTest">
+    <Position X="4.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PlanchaTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaFiguras.Plancha">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BibliotecaFiguras.Cuadrado" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BibliotecaFiguras.Circulo" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BibliotecaFiguras.Rectangulo" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BibliotecaFiguras.IFigura">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
